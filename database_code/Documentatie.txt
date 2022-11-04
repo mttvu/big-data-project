@@ -1,0 +1,3 @@
+upload is voor het uploaden van data naar de database (dit is al gedaan dw).
+
+Loading is een module om met de database te praten (moet nog ff kijken of ik kan regelen dat iedereen een account hebt).
